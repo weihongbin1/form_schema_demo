@@ -1,8 +1,8 @@
-name: 测试Issue模版名字2
-description: Issue模版描述3
-labels: bug, 测试Issue模版标签3
+name: 测试Issue模版名字yaml
+description: Issue模版描述yaml
+labels: bug, 测试Issue模版标签yaml
 assignees: weihongbin1, 测试Issue模版审查者
-title: Issue标题2
+title: Issue标题yaml
 body:
   - type: markdown
     attributes:
