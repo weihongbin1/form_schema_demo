@@ -1,0 +1,6 @@
+# 禁用空白 Issue 模版
+blank_issues_enabled: false
+contact_links:
+  - name: 我的自定义链接
+    url: https://weihongbin.com
+    about: 这个是我的网站
