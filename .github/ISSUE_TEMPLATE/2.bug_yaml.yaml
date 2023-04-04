@@ -10,6 +10,7 @@ body:
         # 这里是 Markdown 表单
         <p align="center"><a href="https://nextjs.org"><picture><source media="(prefers-color-scheme: dark)"srcset="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_dark_background.png"><img src="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_light_background.png"height="128"></picture><h1 align="center">Next.js</h1></a></p>
   - type: checkboxes
+    label: 11
     attributes:
       description: 'Please run `npm install next@canary` to try the canary version of Next.js that ships daily. It includes all features and fixes that have not been released to the stable version yet. Some issues may already be fixed in the canary version, so please verify that your issue reproduces before opening a new issue.'
       options:
