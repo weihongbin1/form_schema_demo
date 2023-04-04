@@ -53,3 +53,26 @@ body:
       value: 输入框 Value
     validations:
       required: true
+  - type: dropdown
+    id: my-dropdown
+    attributes:
+      label: 下拉框
+      description: 下拉框提示
+      options:
+        - 选择内容1
+        - 选择内容2
+        - 选择内容3
+    validations:
+      required: true
+  - type: dropdown
+    id: my-dropdown2
+    attributes:
+      label: 下拉框2
+      multiple: true
+      description: 下拉框提示2
+      options:
+        - 选择内容1
+        - 选择内容2
+        - 选择内容3
+    validations:
+      required: false
