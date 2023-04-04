@@ -44,3 +44,12 @@ body:
       description: 文本框提示3
     validations:
       required: false
+  - type: input
+    id: my-input
+    attributes:
+      label: 输入框
+      description: 输入框提示
+      placeholder: 输入框内部提示
+      value: 输入框 Value
+    validations:
+      required: true
