@@ -19,3 +19,21 @@ body:
           required: true
         - label: 选择内容2 非必选
           required: false
+  - type: textarea
+    id: my-textarea
+    attributes:
+      label: 文本框
+      description: 文本框提示
+      render: bash
+      placeholder: 文本框内部提示
+    validations:
+      required: true
+  - type: textarea
+    id: my-textarea2
+    attributes:
+      label: 文本框2
+      description: 文本框提示2
+      render: markdown
+      value: 文本框 Value
+    validations:
+      required: false
