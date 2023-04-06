@@ -24,7 +24,7 @@ body:
     attributes:
       label: 文本框
       description: 文本框提示
-      render: bash
+      render: bashabc
       placeholder: 文本框内部提示
     validations:
       required: true
