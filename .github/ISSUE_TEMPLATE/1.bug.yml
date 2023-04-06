@@ -68,7 +68,7 @@ body:
   - type: dropdown
     id: my-dropdown2
     attributes:
-      label: 下拉框
+      label: 下拉框2
       multiple: true
       description: 下拉框提示2
       options:
