@@ -1,6 +1,6 @@
 name: 测试Issue模版名字
 description: Issue模版描述
-labels: ['bug']
+labels: ["bug"]
 assignees: 
   - weihongbin1
 title: Issue标题
