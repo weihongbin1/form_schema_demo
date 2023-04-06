@@ -25,7 +25,7 @@ body:
     attributes:
       label: 文本框
       description: 文本框提示
-      render: bashabc
+      render: Shell
       placeholder: 文本框内部提示
     validations:
       required: true
@@ -34,7 +34,7 @@ body:
     attributes:
       label: 文本框2
       description: 文本框提示2
-      render: markdown
+      render: Markdown
       value: 文本框 Value
     validations:
       required: false
