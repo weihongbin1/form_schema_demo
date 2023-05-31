@@ -2,7 +2,7 @@ name: 测试Issue模版名字
 description: Issue模版描述
 labels: ["bug"]
 assignees: 
-  - 1602586227@qq.com
+  - weihongbin1
 title: Issue标题
 body:
   - type: markdown
